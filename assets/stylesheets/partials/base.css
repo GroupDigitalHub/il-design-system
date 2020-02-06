@@ -3,7 +3,7 @@ Error: Undefined variable: "$il-primary-color-blue".
         on line 5 of /Applications/il-design-system/assets/sass/partials/base.scss
 
 1: .il-display-ls {
-2:     font-size: 1.875em;
+2:     font-size: 3.75em;
 3:     font-weight: 400;
 4:     line-height: 2.81em;
 5:     color: $il-primary-color-blue;
@@ -64,4 +64,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$il-primary-color-blue\".\A         on line 5 of /Applications/il-design-system/assets/sass/partials/base.scss\A \A 1: .il-display-ls {\A 2:     font-size: 1.875em;\A 3:     font-weight: 400;\A 4:     line-height: 2.81em;\A 5:     color: $il-primary-color-blue;\A 6: }\A 7: \A 8: .il-display-ss {\A 9:     font-size: 2em;\A 10:     font-weight: 400;"; }
+  content: "Error: Undefined variable: \"$il-primary-color-blue\".\A         on line 5 of /Applications/il-design-system/assets/sass/partials/base.scss\A \A 1: .il-display-ls {\A 2:     font-size: 3.75em;\A 3:     font-weight: 400;\A 4:     line-height: 2.81em;\A 5:     color: $il-primary-color-blue;\A 6: }\A 7: \A 8: .il-display-ss {\A 9:     font-size: 2em;\A 10:     font-weight: 400;"; }
