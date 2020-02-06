@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "/stylesheets/style.scss"
+    ],
+    "names": [],
+    "mappings": "AAAA,KAEI",
+    "file": "/sass/style.css"
+}
