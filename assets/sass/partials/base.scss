@@ -1,5 +1,83 @@
-.il-display-xl {
+.il-display-ls {
     font-size: 1.875em;
     font-weight: 400;
     line-height: 2.81em;
+    color: $il-primary-color-blue;
+}
+
+.il-display-ss {
+    font-size: 2em;
+    font-weight: 400;
+    line-height: 3em;
+    color: $il-primary-color-blue;
+}
+
+.il-display-ls-b {
+    font-size: 3.75em;
+    font-weight: 700;
+    color: $il-primary-color-blue;
+    line-height: 3em;
+}
+
+.il-display-ss-b {
+    font-size: 2em;
+    font-weight: 700;
+    color: $il-primary-color-blue;
+    line-height: 3em;
+}
+
+.il-heading-1-ls {
+    font-size: 2.5em;
+    font-weight: 400;
+    color: $il-primary-color-blue;
+    line-height: 3.75em;
+}
+
+.il-heading-1-ss {
+    font-size: 1.875em;
+    font-weight: 400;
+    color: $il-primary-color-blue;
+    line-height: 2.81em;
+}
+
+.il-heading-2-ls {
+    font-size: 2.125em;
+    font-weight: 400;
+    color: $il-primary-color-charcoal;
+    line-height: 3.1875em;
+}
+
+.il-heading-2-ss {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: $il-primary-color-charcoal;
+    line-height: 2.25em;
+}
+
+.il-heading-3-ls {
+    font-size: 1.75em;
+    font-weight: 400;
+    color: $il-primary-color-charcoal;
+    line-height: 2.625em;
+}
+
+.il-heading-3-ss {
+    font-size: 1.25em;
+    font-weight: 400;
+    color: $il-primary-color-charcoal;
+    line-height: 1.875em;
+}
+
+.il-heading-4-ls {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: $il-primary-color-charcoal;
+    line-height: 2.25em;
+}
+
+.il-heading-4-ss {
+    font-size: 1.06em;
+    font-weight: 400;
+    color: $il-primary-color-charcoal;
+    line-height: 2.25em;
 }
