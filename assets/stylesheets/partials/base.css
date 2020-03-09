@@ -2,7 +2,7 @@
 Error: Undefined variable: "$il-primary-color-blue".
         on line 6 of /Applications/il-design-system/assets/sass/partials/base.scss
 
-1: /*Test*\/
+1: /*Test22*\/
 2: .il-display-ls {
 3:     font-size: 3.75em;
 4:     font-weight: 400;
@@ -54,19 +54,15 @@ Backtrace:
 /Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
 /Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/lib/sass/plugin/compiler.rb:209:in `each'
 /Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/lib/sass/plugin/compiler.rb:294:in `watch'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib/compass/sass_compiler.rb:46:in `watch!'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib/compass/commands/watch_project.rb:41:in `perform'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib/compass/commands/base.rb:18:in `execute'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib/compass/commands/project_base.rb:19:in `execute'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/lib/compass/exec/sub_command_ui.rb:15:in `run!'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/bin/compass:30:in `block in <top (required)>'
-/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/compass-1.0.3/bin/compass:44:in `<top (required)>'
-/Applications/MAMP/Library/bin/compass:22:in `load'
-/Applications/MAMP/Library/bin/compass:22:in `<main>'
+/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/lib/sass/plugin/compiler.rb:473:in `on_file_changed'
+/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/lib/sass/plugin/compiler.rb:331:in `block in watch'
+/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/vendor/listen/lib/listen/listener.rb:252:in `on_change'
+/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/vendor/listen/lib/listen/listener.rb:290:in `block in initialize_adapter'
+/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/vendor/listen/lib/listen/adapter.rb:254:in `report_changes'
+/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/vendor/listen/lib/listen/adapter.rb:323:in `poll_changed_directories'
+/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/sass-3.4.25/vendor/listen/lib/listen/adapter.rb:299:in `block in start_poller'
 */
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$il-primary-color-blue\".\A         on line 6 of /Applications/il-design-system/assets/sass/partials/base.scss\A \A 1: /*Test*/\A 2: .il-display-ls {\A 3:     font-size: 3.75em;\A 4:     font-weight: 400;\A 5:     line-height: 2.81em;\A 6:     color: $il-primary-color-blue;\A 7: }\A 8: \A 9: .il-display-ss {\A 10:     font-size: 2em;\A 11:     font-weight: 400;"; }
+  content: "Error: Undefined variable: \"$il-primary-color-blue\".\A         on line 6 of /Applications/il-design-system/assets/sass/partials/base.scss\A \A 1: /*Test22*/\A 2: .il-display-ls {\A 3:     font-size: 3.75em;\A 4:     font-weight: 400;\A 5:     line-height: 2.81em;\A 6:     color: $il-primary-color-blue;\A 7: }\A 8: \A 9: .il-display-ss {\A 10:     font-size: 2em;\A 11:     font-weight: 400;"; }
